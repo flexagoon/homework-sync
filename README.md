@@ -1,3 +1,5 @@
+# Archived in favor of [caldav_sync](https://github.com/flexagoon/caldav_sync)
+
 # Homework Sync
 
 A simple script to sync all of my homework information from [Eljur](https://eljur.ru)
